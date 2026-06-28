@@ -1,5 +1,4 @@
-{
-  Dưới đây là roadmap.json của khoá học tôi đã có:
+Dưới đây là roadmap.json của khoá học tôi đã có:
 
 Tôi muốn tạo lộ trình học lập trong 1 tuần để ôn thi JLPT trước ngày thi
 
@@ -72,4 +71,3 @@ Quy tắc:
 - dayId trong vocabulary/quizzes phải khớp chính xác với id trong days
 - Xuất lần lượt từng ngày, đặt tên file đúng định dạng
 - Chỉ xuất JSON thuần, không giải thích thêm
-}
