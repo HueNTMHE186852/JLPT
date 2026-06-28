@@ -1,24 +1,18 @@
-Tôi muốn tạo lộ trình học lập trong 1 tuần để ôn thi JLPT trước ngày thi
-
-Bạn là một giáo viên tiếng Anh hãy đề xuất lộ trình học giúp tôi, trả về kết quả dưới dạng JSON theo schema đã cho:
-tên file: `roadmap.json`, nội dung:
 {
   "weeks": [
     {
-      "week": number,
-      "title": string,
-      "goal": string,
-      "dayIds": string[]
+      "week": 1,
+      "title": "JLPT Final Sprint & Mock Exams",
+      "goal": "Complete 3 full-length practice tests and master high-frequency grammar, kanji, and listening strategies to maximize the exam score.",
+      "dayIds": [
+        "day-01",
+        "day-02",
+        "day-03",
+        "day-04",
+        "day-05",
+        "day-06",
+        "day-07"
+      ]
     }
   ]
 }
-
-Yêu cầu:
-- Tổng 1 tuần, mỗi tuần 7 ngày học
-- dayIds đánh số tuần tự từ "day-01" đến "day-7"
-- title: chủ đề tuần ngắn gọn (vd "Present Tenses & Daily Routines")
-- goal: mục tiêu tuần 1 câu cụ thể, đo được (vd "Dùng được thì hiện tại đơn
-  và tiếp diễn để mô tả thói quen hằng ngày")
-- Chủ đề các tuần phải xây dựng tuần tự, không lặp, phù hợp trình độ của tôi
-
-Chỉ xuất JSON thuần, không giải thích.
