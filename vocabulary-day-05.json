@@ -1,0 +1,13 @@
+{
+  "dayId": "day-05",
+  "items": [
+    { "word": "書きます (かきます)", "meaning": "viết", "example": "Tegami wo kakimasu. (Tôi viết thư.)" },
+    { "word": "聞きます (ききます)", "meaning": "nghe / hỏi", "example": "Ongaku wo kikimasu. (Tôi nghe nhạc.)" },
+    { "word": "話します (はなします)", "meaning": "nói chuyện", "example": "Nihongo wo hanashimasu. (Tôi nói tiếng Nhật.)" },
+    { "word": "見ます (みます)", "meaning": "xem / nhìn", "example": "Terebi wo mimasu. (Tôi xem TV.)" },
+    { "word": "来ます (きます)", "meaning": "đến", "example": "Tomodachi ga kimasu. (Bạn tôi đến.)" },
+    { "word": "します", "meaning": "làm", "example": "Mainichi undou wo shimasu. (Mỗi ngày tôi tập thể dục.)" },
+    { "word": "起きます (おきます)", "meaning": "thức dậy", "example": "Rokuji ni okimashita. (Tôi đã thức dậy lúc 6 giờ.)" },
+    { "word": "寝ます (ねます)", "meaning": "ngủ", "example": "Juuji ni nemasu. (Tôi ngủ lúc 10 giờ.)" }
+  ]
+}

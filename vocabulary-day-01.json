@@ -1,0 +1,12 @@
+{
+  "dayId": "day-01",
+  "items": [
+    { "word": "あいさつ (挨拶)", "meaning": "lời chào hỏi", "example": "Aisatsu wa nihongo no kihon desu. (Lời chào là điều cơ bản trong tiếng Nhật.)" },
+    { "word": "なまえ (名前)", "meaning": "tên", "example": "Watashi no namae wa Minh desu. (Tên tôi là Minh.)" },
+    { "word": "くに (国)", "meaning": "đất nước", "example": "Anata no kuni wa doko desu ka? (Đất nước của bạn là đâu?)" },
+    { "word": "がくせい (学生)", "meaning": "học sinh / sinh viên", "example": "Watashi wa gakusei desu. (Tôi là học sinh.)" },
+    { "word": "せんせい (先生)", "meaning": "giáo viên", "example": "Tanaka-san wa sensei desu. (Cô Tanaka là giáo viên.)" },
+    { "word": "ともだち (友達)", "meaning": "bạn bè", "example": "Kare wa watashi no tomodachi desu. (Anh ấy là bạn tôi.)" },
+    { "word": "にほん (日本)", "meaning": "Nhật Bản", "example": "Nihon ni ikitai desu. (Tôi muốn đến Nhật Bản.)" }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "dayId": "day-05",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "動詞「書く」thuộc nhóm nào và chia thể ます như thế nào?",
+      "options": ["Nhóm 2 – 書ります", "Nhóm 1 – 書きます", "Nhóm 3 – 書します", "Nhóm 2 – 書ます"],
+      "answerIndex": 1,
+      "explanation": "「書く」là động từ nhóm 1 (U-verb). Đổi く→き rồi thêm ます → 書きます."
+    },
+    {
+      "id": "q2",
+      "question": "「食べませんでした」có nghĩa là gì?",
+      "options": ["Không ăn (hiện tại)", "Đã ăn", "Sẽ không ăn", "Không ăn (quá khứ)"],
+      "answerIndex": 3,
+      "explanation": "「ませんでした」là dạng phủ định quá khứ. 食べませんでした = đã không ăn."
+    },
+    {
+      "id": "q3",
+      "question": "Động từ bất quy tắc nhóm 3 gồm những động từ nào?",
+      "options": ["行く và 来る", "する và 来る", "食べる và 見る", "書く và 読む"],
+      "answerIndex": 1,
+      "explanation": "Nhóm 3 chỉ gồm 2 động từ bất quy tắc: する (làm) và 来る (đến)."
+    },
+    {
+      "id": "q4",
+      "question": "「毎日音楽を___。」Điền động từ đúng dạng ます.",
+      "options": ["聞きます", "聞きません", "聞きました", "聞く"],
+      "answerIndex": 0,
+      "explanation": "Câu diễn tả thói quen hiện tại dùng thể ます khẳng định: 聞きます."
+    },
+    {
+      "id": "q5",
+      "question": "「友達が来ました」có nghĩa là gì?",
+      "options": ["Bạn tôi sẽ đến", "Bạn tôi đang đến", "Bạn tôi đã đến", "Bạn tôi không đến"],
+      "answerIndex": 2,
+      "explanation": "「ました」là dạng quá khứ khẳng định. 来ました = đã đến."
+    }
+  ]
+}

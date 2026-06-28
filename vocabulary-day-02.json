@@ -1,0 +1,13 @@
+{
+  "dayId": "day-02",
+  "items": [
+    { "word": "父 (ちち)", "meaning": "bố (của tôi)", "example": "Chichi wa sanjuunana sai desu. (Bố tôi 37 tuổi.)" },
+    { "word": "母 (はは)", "meaning": "mẹ (của tôi)", "example": "Haha wa ryouri ga jouzu desu. (Mẹ tôi nấu ăn giỏi.)" },
+    { "word": "兄 (あに)", "meaning": "anh trai (của tôi)", "example": "Ani wa daigakusei desu. (Anh tôi là sinh viên đại học.)" },
+    { "word": "姉 (あね)", "meaning": "chị gái (của tôi)", "example": "Ane wa kaisha de hataraite imasu. (Chị tôi đang làm việc ở công ty.)" },
+    { "word": "弟 (おとうと)", "meaning": "em trai (của tôi)", "example": "Otouto wa chuugakusei desu. (Em trai tôi là học sinh cấp 2.)" },
+    { "word": "妹 (いもうと)", "meaning": "em gái (của tôi)", "example": "Imouto wa kawaii desu. (Em gái tôi dễ thương.)" },
+    { "word": "大学 (だいがく)", "meaning": "trường đại học", "example": "Watashi wa daigaku ni kayotte imasu. (Tôi đang đi học đại học.)" },
+    { "word": "学校 (がっこう)", "meaning": "trường học", "example": "Gakkou wa kuji ni hajimarimasu. (Trường bắt đầu lúc 9 giờ.)" }
+  ]
+}

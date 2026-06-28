@@ -1,0 +1,13 @@
+{
+  "dayId": "day-03",
+  "items": [
+    { "word": "行きます (いきます)", "meaning": "đi", "example": "Watashi wa gakkou ni ikimasu. (Tôi đi đến trường.)" },
+    { "word": "食べます (たべます)", "meaning": "ăn", "example": "Resutoran de gohan wo tabemasu. (Ăn cơm tại nhà hàng.)" },
+    { "word": "読みます (よみます)", "meaning": "đọc", "example": "Toshokan de hon wo yomimasu. (Đọc sách ở thư viện.)" },
+    { "word": "公園 (こうえん)", "meaning": "công viên", "example": "Kouen de tomodachi to asobimasu. (Chơi với bạn ở công viên.)" },
+    { "word": "バス", "meaning": "xe buýt", "example": "Basu de kaisha ni ikimasu. (Đi làm bằng xe buýt.)" },
+    { "word": "起きます (おきます)", "meaning": "thức dậy", "example": "Mainichi shichiji ni okimasu. (Mỗi ngày tôi thức dậy lúc 7 giờ.)" },
+    { "word": "猫 (ねこ)", "meaning": "mèo", "example": "Uchi ni neko ga imasu. (Nhà tôi có mèo.)" },
+    { "word": "図書館 (としょかん)", "meaning": "thư viện", "example": "Toshokan de benkyou shimasu. (Học bài ở thư viện.)" }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "dayId": "day-02",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "「父」đọc là gì khi nói về bố của chính mình?",
+      "options": ["おとうさん", "ちち", "パパ", "おやじ"],
+      "answerIndex": 1,
+      "explanation": "「ちち」dùng khi nói về bố của chính mình. 「おとうさん」dùng khi gọi bố hoặc nói về bố người khác."
+    },
+    {
+      "id": "q2",
+      "question": "「学校」có nghĩa là gì?",
+      "options": ["đại học", "trường học", "lớp học", "giáo viên"],
+      "answerIndex": 1,
+      "explanation": "「学校 (がっこう)」nghĩa là trường học nói chung."
+    },
+    {
+      "id": "q3",
+      "question": "Kanji nào có nghĩa là 'em gái'?",
+      "options": ["姉", "弟", "妹", "兄"],
+      "answerIndex": 2,
+      "explanation": "「妹 (いもうと)」là em gái. 「姉」là chị gái, 「弟」là em trai, 「兄」là anh trai."
+    },
+    {
+      "id": "q4",
+      "question": "「大学」đọc là gì?",
+      "options": ["おおがく", "だいがく", "たいがく", "だいかく"],
+      "answerIndex": 1,
+      "explanation": "「大学」đọc là「だいがく」, nghĩa là trường đại học."
+    },
+    {
+      "id": "q5",
+      "question": "「はは」viết bằng Kanji là gì?",
+      "options": ["父", "母", "姉", "妹"],
+      "answerIndex": 1,
+      "explanation": "「はは」là cách đọc kun'yomi của Kanji「母」, nghĩa là mẹ."
+    }
+  ]
+}

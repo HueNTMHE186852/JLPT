@@ -1,0 +1,40 @@
+{
+  "dayId": "day-03",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "私___学生です。Điền trợ từ thích hợp.",
+      "options": ["が", "を", "は", "で"],
+      "answerIndex": 2,
+      "explanation": "「は」dùng để đánh dấu chủ đề câu. 「私は学生です」= Tôi là học sinh."
+    },
+    {
+      "id": "q2",
+      "question": "公園___遊びます。Điền trợ từ thích hợp.",
+      "options": ["に", "で", "を", "が"],
+      "answerIndex": 1,
+      "explanation": "「で」chỉ địa điểm xảy ra hành động. 公園で遊びます = Chơi ở công viên."
+    },
+    {
+      "id": "q3",
+      "question": "学校___行きます。Điền trợ từ thích hợp.",
+      "options": ["で", "が", "を", "に"],
+      "answerIndex": 3,
+      "explanation": "「に」chỉ đích đến của hành động di chuyển. 学校に行きます = Đi đến trường."
+    },
+    {
+      "id": "q4",
+      "question": "本___読みます。Điền trợ từ thích hợp.",
+      "options": ["は", "に", "を", "で"],
+      "answerIndex": 2,
+      "explanation": "「を」đánh dấu tân ngữ trực tiếp. 本を読みます = Đọc sách."
+    },
+    {
+      "id": "q5",
+      "question": "「バスで行きます」có nghĩa là gì?",
+      "options": ["Đi đến trạm xe buýt", "Đi bằng xe buýt", "Đợi xe buýt", "Xuống xe buýt"],
+      "answerIndex": 1,
+      "explanation": "「で」sau phương tiện có nghĩa là 'bằng/bởi'. バスで = bằng xe buýt."
+    }
+  ]
+}

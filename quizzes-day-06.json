@@ -1,0 +1,40 @@
+{
+  "dayId": "day-06",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Dựa vào bài đọc mẫu trong bài học, người viết thức dậy lúc mấy giờ?",
+      "options": ["6 giờ", "7 giờ", "8 giờ", "9 giờ"],
+      "answerIndex": 1,
+      "explanation": "Bài đọc ghi「毎朝七時に起きます」= mỗi sáng thức dậy lúc 7 giờ."
+    },
+    {
+      "id": "q2",
+      "question": "「それから」có chức năng gì trong câu?",
+      "options": ["Chỉ nguyên nhân", "Nối hai ý đối lập", "Chỉ trình tự thời gian (sau đó)", "Chỉ điều kiện"],
+      "answerIndex": 2,
+      "explanation": "「それから」= sau đó, dùng để nối các hành động xảy ra theo trình tự."
+    },
+    {
+      "id": "q3",
+      "question": "「授業は九時に始まります」có nghĩa là gì?",
+      "options": ["Buổi học kết thúc lúc 9 giờ", "Buổi học bắt đầu lúc 9 giờ", "Đến trường lúc 9 giờ", "Ăn sáng lúc 9 giờ"],
+      "answerIndex": 1,
+      "explanation": "「始まります」= bắt đầu. 授業は九時に始まります = Buổi học bắt đầu lúc 9 giờ."
+    },
+    {
+      "id": "q4",
+      "question": "Khi làm bài đọc N5, nên làm gì ĐẦU TIÊN?",
+      "options": ["Đọc toàn bộ bài văn từ đầu đến cuối", "Dịch từng câu sang tiếng Việt", "Đọc câu hỏi trước để biết cần tìm gì", "Tra từ điển từng từ không biết"],
+      "answerIndex": 2,
+      "explanation": "Đọc câu hỏi trước giúp tập trung vào thông tin cần tìm, tiết kiệm thời gian làm bài."
+    },
+    {
+      "id": "q5",
+      "question": "「でも」dùng để diễn đạt điều gì?",
+      "options": ["Thêm thông tin tương tự", "Diễn đạt sự tương phản / nhưng mà", "Chỉ trình tự hành động", "Diễn đạt nguyên nhân"],
+      "answerIndex": 1,
+      "explanation": "「でも」= nhưng mà, dùng để nối hai ý tương phản nhau."
+    }
+  ]
+}

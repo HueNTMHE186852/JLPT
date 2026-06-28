@@ -1,0 +1,40 @@
+{
+  "dayId": "day-07",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "「合格」có nghĩa là gì?",
+      "options": ["thi trượt", "đỗ thi / đạt", "ôn tập", "kỳ thi"],
+      "answerIndex": 1,
+      "explanation": "「合格 (ごうかく)」nghĩa là đỗ/đạt trong kỳ thi."
+    },
+    {
+      "id": "q2",
+      "question": "Điểm đỗ tối thiểu của kỳ thi JLPT N5 là bao nhiêu?",
+      "options": ["60/180 điểm", "80/180 điểm", "100/180 điểm", "120/180 điểm"],
+      "answerIndex": 1,
+      "explanation": "Điểm đỗ N5 là 80/180 điểm tổng, đồng thời mỗi phần phải đạt ít nhất 38%."
+    },
+    {
+      "id": "q3",
+      "question": "Trợ từ nào dùng để chỉ ĐỊA ĐIỂM xảy ra hành động?",
+      "options": ["に", "が", "で", "を"],
+      "answerIndex": 2,
+      "explanation": "「で」chỉ địa điểm xảy ra hành động. Ví dụ: 図書館で勉強します."
+    },
+    {
+      "id": "q4",
+      "question": "「頑張ります」có nghĩa là gì?",
+      "options": ["tôi hiểu", "tôi cố gắng", "tôi đỗ thi", "tôi ôn tập"],
+      "answerIndex": 1,
+      "explanation": "「頑張ります (がんばります)」nghĩa là cố gắng, nỗ lực."
+    },
+    {
+      "id": "q5",
+      "question": "「食べませんでした」là dạng nào của động từ 食べる?",
+      "options": ["Hiện tại phủ định", "Quá khứ khẳng định", "Quá khứ phủ định", "Hiện tại khẳng định"],
+      "answerIndex": 2,
+      "explanation": "「ませんでした」= phủ định quá khứ. 食べませんでした = đã không ăn."
+    }
+  ]
+}

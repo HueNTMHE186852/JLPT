@@ -1,0 +1,13 @@
+{
+  "dayId": "day-04",
+  "items": [
+    { "word": "何時 (なんじ)", "meaning": "mấy giờ", "example": "Ima nanji desu ka? (Bây giờ là mấy giờ?)" },
+    { "word": "午前 (ごぜん)", "meaning": "buổi sáng (AM)", "example": "Gozen kuji ni okimasu. (Tôi thức dậy lúc 9 giờ sáng.)" },
+    { "word": "午後 (ごご)", "meaning": "buổi chiều (PM)", "example": "Gogo sanchiji ni nemasu. (Tôi ngủ lúc 3 giờ chiều.)" },
+    { "word": "今日 (きょう)", "meaning": "hôm nay", "example": "Kyou wa kayoubi desu. (Hôm nay là thứ Ba.)" },
+    { "word": "明日 (あした)", "meaning": "ngày mai", "example": "Ashita shiken ga arimasu. (Ngày mai có thi.)" },
+    { "word": "毎日 (まいにち)", "meaning": "mỗi ngày", "example": "Mainichi nihongo wo benkyou shimasu. (Mỗi ngày tôi học tiếng Nhật.)" },
+    { "word": "来週 (らいしゅう)", "meaning": "tuần sau", "example": "Raishuu tomodachi ni aimasu. (Tuần sau tôi gặp bạn.)" },
+    { "word": "何曜日 (なんようび)", "meaning": "thứ mấy", "example": "Kyou wa nanyoubi desu ka? (Hôm nay là thứ mấy?)" }
+  ]
+}

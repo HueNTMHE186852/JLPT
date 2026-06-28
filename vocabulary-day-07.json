@@ -1,0 +1,13 @@
+{
+  "dayId": "day-07",
+  "items": [
+    { "word": "復習 (ふくしゅう)", "meaning": "ôn tập", "example": "Kyou wa fukushuu no hi desu. (Hôm nay là ngày ôn tập.)" },
+    { "word": "試験 (しけん)", "meaning": "kỳ thi", "example": "Ashita shiken ga arimasu. (Ngày mai có thi.)" },
+    { "word": "合格 (ごうかく)", "meaning": "đỗ / đạt", "example": "N5 ni goukaku shitai desu. (Tôi muốn đỗ N5.)" },
+    { "word": "頑張ります (がんばります)", "meaning": "cố gắng", "example": "Shiken no mae ni motto ganbariimasu. (Tôi sẽ cố gắng hơn trước kỳ thi.)" },
+    { "word": "わかります", "meaning": "hiểu / biết", "example": "Nihongo ga sukoshi wakarimasu. (Tôi hiểu tiếng Nhật một chút.)" },
+    { "word": "むずかしい (難しい)", "meaning": "khó", "example": "Kanji wa muzukashii desu. (Kanji thì khó.)" },
+    { "word": "やさしい (易しい)", "meaning": "dễ", "example": "Hiragana wa yasashii desu. (Hiragana thì dễ.)" },
+    { "word": "大丈夫 (だいじょうぶ)", "meaning": "không sao / ổn", "example": "Shiken wa daijoubu desu. (Kỳ thi thì ổn thôi.)" }
+  ]
+}

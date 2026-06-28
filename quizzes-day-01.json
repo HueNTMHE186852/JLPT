@@ -1,0 +1,40 @@
+{
+  "dayId": "day-01",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Ký tự nào sau đây thuộc bảng Hiragana?",
+      "options": ["ア", "あ", "A", "亜"],
+      "answerIndex": 1,
+      "explanation": "「あ」là ký tự Hiragana. 「ア」là Katakana tương ứng."
+    },
+    {
+      "id": "q2",
+      "question": "「なまえ」có nghĩa là gì?",
+      "options": ["đất nước", "giáo viên", "tên", "bạn bè"],
+      "answerIndex": 2,
+      "explanation": "「なまえ (名前)」có nghĩa là 'tên'."
+    },
+    {
+      "id": "q3",
+      "question": "Katakana được dùng chủ yếu để viết loại từ nào?",
+      "options": ["Từ thuần Nhật", "Trợ từ", "Từ ngoại lai / tên nước ngoài", "Kanji"],
+      "answerIndex": 2,
+      "explanation": "Katakana dùng để phiên âm từ vay mượn từ tiếng nước ngoài và tên riêng nước ngoài."
+    },
+    {
+      "id": "q4",
+      "question": "「がくせい」có nghĩa là gì?",
+      "options": ["giáo viên", "học sinh", "lời chào", "bạn bè"],
+      "answerIndex": 1,
+      "explanation": "「がくせい (学生)」nghĩa là học sinh hoặc sinh viên."
+    },
+    {
+      "id": "q5",
+      "question": "Từ nào sau đây có nghĩa là 'giáo viên'?",
+      "options": ["ともだち", "くに", "せんせい", "なまえ"],
+      "answerIndex": 2,
+      "explanation": "「せんせい (先生)」nghĩa là giáo viên."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "dayId": "day-06",
+  "items": [
+    { "word": "毎朝 (まいあさ)", "meaning": "mỗi buổi sáng", "example": "Mainichi maiasa joggingu wo shimasu. (Mỗi sáng tôi đi bộ.)" },
+    { "word": "シャワー", "meaning": "vòi sen / tắm hoa sen", "example": "Asa shawaa wo abimasu. (Sáng tôi tắm hoa sen.)" },
+    { "word": "朝ごはん (あさごはん)", "meaning": "bữa sáng", "example": "Asagohan wo tabemashita. (Tôi đã ăn sáng.)" },
+    { "word": "それから", "meaning": "sau đó", "example": "Gohan wo tabemasu. Sorekara, gakkou ni ikimasu. (Ăn cơm. Sau đó đi học.)" },
+    { "word": "始まります (はじまります)", "meaning": "bắt đầu", "example": "Jugyou wa kuji ni hajimarimasu. (Buổi học bắt đầu lúc 9 giờ.)" },
+    { "word": "終わります (おわります)", "meaning": "kết thúc", "example": "Shigoto wa goji ni owarimasu. (Công việc kết thúc lúc 5 giờ.)" },
+    { "word": "でも", "meaning": "nhưng mà", "example": "Nihongo ga suki desu. Demo, muzukashii desu. (Tôi thích tiếng Nhật. Nhưng mà khó.)" },
+    { "word": "そして", "meaning": "và rồi / và sau đó", "example": "Gohan wo tabemasu. Soshite, nemasu. (Tôi ăn cơm. Và rồi đi ngủ.)" }
+  ]
+}

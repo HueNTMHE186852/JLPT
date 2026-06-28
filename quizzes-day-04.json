@@ -1,0 +1,40 @@
+{
+  "dayId": "day-04",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "「午後三時」có nghĩa là mấy giờ?",
+      "options": ["3 giờ sáng", "3 giờ chiều", "13 giờ", "30 phút"],
+      "answerIndex": 1,
+      "explanation": "「午後」= buổi chiều (PM), 「三時」= 3 giờ. Vậy 午後三時 = 3 giờ chiều."
+    },
+    {
+      "id": "q2",
+      "question": "「明日」có nghĩa là gì?",
+      "options": ["hôm nay", "hôm qua", "ngày mai", "tuần sau"],
+      "answerIndex": 2,
+      "explanation": "「明日 (あした)」nghĩa là ngày mai."
+    },
+    {
+      "id": "q3",
+      "question": "Ngày đầu tiên của tháng (mùng 1) đọc là gì?",
+      "options": ["いちにち", "ついたち", "ひとつ", "いちがつ"],
+      "answerIndex": 1,
+      "explanation": "Mùng 1 đọc là「ついたち」, là cách đọc đặc biệt bất quy tắc."
+    },
+    {
+      "id": "q4",
+      "question": "「毎日」có nghĩa là gì?",
+      "options": ["mỗi tuần", "mỗi tháng", "mỗi ngày", "hôm nay"],
+      "answerIndex": 2,
+      "explanation": "「毎日 (まいにち)」= mỗi ngày. 毎 = mỗi, 日 = ngày."
+    },
+    {
+      "id": "q5",
+      "question": "「何曜日ですか」là câu hỏi về điều gì?",
+      "options": ["Mấy giờ rồi?", "Ngày mấy?", "Thứ mấy?", "Tháng mấy?"],
+      "answerIndex": 2,
+      "explanation": "「何曜日」= thứ mấy trong tuần. Câu hỏi này hỏi ngày trong tuần (T2, T3...)."
+    }
+  ]
+}
