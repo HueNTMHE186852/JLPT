@@ -1,0 +1,73 @@
+Dưới đây là roadmap.json của khoá học tôi đã có:
+
+Tôi muốn tạo lộ trình học lập trong 1 tuần để ôn thi JLPT trước ngày thi
+
+Bạn là một giáo viên tiếng Anh hãy đề xuất lộ trình học giúp tôi, trả về kết quả dưới dạng JSON theo schema đã cho:
+tên file: `roadmap.json`, nội dung:
+{
+  "weeks": [
+    {
+      "week": number,
+      "title": string,
+      "goal": string,
+      "dayIds": string[]
+    }
+  ]
+}
+
+Yêu cầu:
+- Tổng 1 tuần, mỗi tuần 7 ngày học
+- dayIds đánh số tuần tự từ "day-01" đến "day-7"
+- title: chủ đề tuần ngắn gọn (vd "Present Tenses & Daily Routines")
+- goal: mục tiêu tuần 1 câu cụ thể, đo được (vd "Dùng được thì hiện tại đơn
+  và tiếp diễn để mô tả thói quen hằng ngày")
+- Chủ đề các tuần phải xây dựng tuần tự, không lặp, phù hợp trình độ của tôi
+
+Chỉ xuất JSON thuần, không giải thích.
+
+Hãy tạo dữ liệu cho các ngày của tuần 1, bám theo mục tiêu của tuần đó. Danh sách dayId cần tạo lấy theo dayIds của tuần
+
+Với mỗi dayId đại diện cho ngày tương ứng, xác định một chủ đề để học trong ngày bám theo mục tiêu của tuần, xuất đúng 3 file JSON theo schema sau:
+
+── days-{dayId}.json ──
+{
+  "id": "{dayId}",
+  "title": string,       // tiêu đề bài, nội dung bám theo chủ đề tuần trong roadmap
+  "topic": string,       // "Grammar" | "Vocabulary" | "Listening" | "Reading" | "Speaking"
+  "objectives": string[] // 2–4 mục tiêu cụ thể, ngắn gọn
+  "lesson": string       // nội dung bài (markdown nhẹ hoặc văn xuôi, 100–200 từ)
+}
+
+── vocabulary-{dayId}.json ──
+{
+  "dayId": "{dayId}",
+  "items": [
+    {
+      "word": string,
+      "meaning": string,  // nghĩa tiếng Việt
+      "example": string   // câu ví dụ tiếng Anh đúng ngữ pháp
+    }
+  ]   // 5–10 từ, liên quan chủ đề bài
+}
+
+── quizzes-{dayId}.json ──
+{
+  "dayId": "{dayId}",
+  "questions": [
+    {
+      "id": string,         // "q1", "q2", ...
+      "question": string,
+      "options": string[],  // đúng 4 lựa chọn
+      "answerIndex": number,// 0–3
+      "explanation": string // giải thích ngắn tại sao đúng
+    }
+  ]   // 3–5 câu, kiểm tra nội dung bài + từ vựng cùng ngày
+}
+
+Quy tắc:
+- Nội dung 3 file mỗi ngày phải liên kết nhau (từ vựng xuất hiện trong bài →
+  được kiểm tra trong quiz), dựa vào chủ đề ngày đã xác định ở đầu
+- Chủ đề ngày phải khớp với tuần chứa nó (đọc từ roadmap đã cho)
+- dayId trong vocabulary/quizzes phải khớp chính xác với id trong days
+- Xuất lần lượt từng ngày, đặt tên file đúng định dạng
+- Chỉ xuất JSON thuần, không giải thích thêm
